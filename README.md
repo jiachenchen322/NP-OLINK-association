@@ -1,3 +1,3 @@
 # NP-OLINK-association
 
-This page will be updated before GSA 2022 in November.
+Supplementary slides for our poster are shown here. 
