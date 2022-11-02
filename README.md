@@ -1,4 +1,5 @@
 GSA 2022 Poster: Inflammatory Biomarkers Associated with Cognitive Function and Dementia: Framingham Heart Study Offspring Cohort
+
 Author: Jiachen Chen, Margaret F. Doyle, Yuan Fang, Jesse Mez, Claudia L. Satizabal, Michael L. Alosco, Wei Qiao Qiu, Joanne M. Murabito, Kathryn L. Lunetta. 
 
 
